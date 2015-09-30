@@ -1,8 +1,8 @@
 markdown: redcarpet
 pygments: true
 
-url: http://www.doorknob.ml
+url: http://cofs.szu.edu.cn
 baseurl:
 
-title_tag_text: Door Knob Hand Recognition System
-h1_tag_text: Door Knob Hand Recognition System
+title_tag_text: 深圳市物联网光子器件与传感系统重点实验室 | Shenzhen Key Lab of Photonic Devices and Sensing Systems for Internet of Things (PDSS)
+h1_tag_text: 深圳市物联网光子器件与传感系统重点实验室 | Shenzhen Key Lab of Photonic Devices and Sensing Systems for Internet of Things (PDSS)
